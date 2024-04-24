@@ -1,0 +1,129 @@
+.skillTitle {
+    height: 5vh;
+    width: 10vw;
+    font-size: 2rem;
+    font-weight: 700;
+    display: flex;
+    margin-left: 40%;
+}
+
+.up {
+    display: flex;
+}
+
+.left1 {
+    margin: 1rem;
+    padding: 1rem 2rem;
+    background-color: white;
+    margin-left: 35%;
+    width: 10%;
+    border-radius: 0.5rem;
+}
+
+.left2 {
+    margin: 1rem;
+    padding: 1rem 2rem;
+    background-color: white;
+    margin-left: 35%;
+    width: 10%;
+    border-radius: 0.5rem;
+}
+
+.right {
+    display: flex;
+    margin: 1rem;
+    padding: 1rem 2rem;
+    background-color: white;
+    width: 10%;
+    border-radius: 0.5rem;
+}
+
+.right2 {
+    display: flex;
+    margin: 1rem;
+    margin-left: 53.5%;
+    margin-top: -267px;
+    padding: 1.55rem 2rem;
+    background-color: white;
+    width: 10%;
+    border-radius: 0.5rem;
+}
+
+.clogo {
+    object-fit: cover;
+    height: 5rem;
+    width: 5rem;
+
+}
+
+.webdesign {
+    margin-left: 35%;
+    height: 5rem;
+    width: 5rem;
+}
+
+.java {
+    height: 6rem;
+    width: 6rem;
+    margin-left: 15%;
+}
+
+.html {
+    margin-top: 11px;
+    margin-left: -15px;
+    margin-right: 5px;
+}
+
+.python {
+    height: 6rem;
+    width: 6rem;
+    margin-left: 0%;
+}
+
+.skillBarText>p {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    font-weight: 0.9;
+}
+
+.javatext {
+    margin-top: 80px;
+    margin-left: -100px;
+}
+
+.pythontext {
+    margin-top: 0px;
+    margin-left: -10px;
+}
+
+.css {
+    margin-top: 15px;
+}
+
+.htmltext {
+    margin-top: 99px;
+    margin-left: -125px;
+}
+
+.skillbar {
+    margin-top: 10px;
+    width: 65%;
+    height: 38rem;
+    border-radius: 0.5rem;  
+    background: rgb(239,244,255);
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.hoverImg {
+    transition: transform 0.3s ease-in-out;
+}
+
+.hoverImg:hover {
+    transform: scale(0.2);
+}
+
+.whiteText {
+    color: white;
+}

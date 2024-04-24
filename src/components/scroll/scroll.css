@@ -1,0 +1,43 @@
+.link {
+    text-align: center;
+    padding: 20px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.link:hover {
+    color: blue;
+    border-bottom: 3px solid blue;
+}
+
+.navbar {
+    background-color: transparent;
+    position: fixed;
+    justify-content: space-between;
+    width: 100vw;
+}
+
+.Skills {
+    height: 600px;
+    background-color: transparent;
+}
+
+.Portfolio {
+    height: 600px;
+    background-color: transparent;
+}
+
+.Contact {
+    height: 900px;
+    background-color: transparent;
+}
+
+.bars {
+    display: flex;
+    margin: 0.5rem;
+    width: 320px;
+    border-radius: 0.5rem;  
+    background: rgb(250, 250, 250);
+}
